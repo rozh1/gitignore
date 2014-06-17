@@ -6,6 +6,10 @@
 *.user
 *.sln.docstates
 
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
